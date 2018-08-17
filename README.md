@@ -1,2 +1,4 @@
 # decentralized-public-key-infrastructure
 The trust infrastructure in the World Wide Web (WWW) or Internet as we know today is centralized. This includes Public Key Infrastructures (PKI) and the Resource PKI (RPKI), which is the trust infrastructure for Autonomous System Numbers (ASNs) and IP addresses.  Resource Public Key Infrastructure (RPKI), also known as Resource Certification, is a specialized public key infrastructure (PKI) framework designed to secure the Internet's routing infrastructure.  Given the importance of RPKI, it is important to closely examine how blockchain/distributed ledger technologies (DLT) could be applied to improve, buttress and shore up the resiliency of today's RPKI. It is an imperative that critical internet infrastructure look into decentralization as a way to improve resiliency. 
+
+More to come
